@@ -67,3 +67,7 @@ Run these in two terminals to see changes instantly:
 - Terminal 2: `npm run dev:frontend`, then open http://localhost:5173
 
 After editing the frontend, run `npm run build --prefix frontend` so `npm start` shows your changes.
+## 📸 Screenshots
+
+### Dashboard
+![AI Interview Coach Dashboard](screenshots/dashboard.png)
